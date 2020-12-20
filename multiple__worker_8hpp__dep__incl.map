@@ -1,0 +1,10 @@
+<map id="src/multiple_worker.hpp" name="src/multiple_worker.hpp">
+<area shape="rect" id="node2" href="$controller_8hpp.html" title="src/controller.hpp" alt="" coords="69,80,204,107"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="5,304,111,331"/>
+<area shape="rect" id="node9" href="$multiple__worker_8cpp.html" title="src/multiple_worker.cpp" alt="" coords="228,80,405,107"/>
+<area shape="rect" id="node3" href="$controller_8cpp.html" title="src/controller.cpp" alt="" coords="95,155,229,181"/>
+<area shape="rect" id="node5" href="$session_8hpp.html" title="src/session.hpp" alt="" coords="253,155,375,181"/>
+<area shape="rect" id="node6" href="$server_8hpp.html" title="src/server.hpp" alt="" coords="257,229,371,256"/>
+<area shape="rect" id="node8" href="$session_8cpp.html" title="src/session.cpp" alt="" coords="112,229,233,256"/>
+<area shape="rect" id="node7" href="$server_8cpp.html" title="src/server.cpp" alt="" coords="258,304,370,331"/>
+</map>
